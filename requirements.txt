@@ -4,3 +4,4 @@ seaborn
 numpy
 scipy
 kaggle
+jupyterlab
